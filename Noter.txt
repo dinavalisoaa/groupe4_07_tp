@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile="path" -DgroupId=org.gson -DartifactId=org-gson -Dversion=2.8.2 -Dpackaging=jar
